@@ -6,7 +6,7 @@
 |4/8|Fault tolerance|<a href="https://arxiv.org/abs/1903.12226">Co-evolving Tracing and Fault Injection with Box of Pain</a>|Akul, Kyle|
 |4/10|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple -- ZOOM class</a>|Zehui Cheng, Vishal Chakraborty|
 |4/12||<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">no class, sorry!</a>||
-|4/15|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Kavi|
+|4/15|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Kavi, Pooneh|
 |4/17|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>|Roy, Fahim|
 |4/19|Storage|<a href="http://www.cs.princeton.edu/~wlloyd/papers/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>|Zehui Cheng, Vishal Chakraborty|
 |4/22|Storage|<a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>|Kristopher, Samuel|
@@ -25,7 +25,7 @@
 |5/22|Systems|<a href="https://www.usenix.org/conference/osdi18/presentation/gjengset">Noria</a>|Joshua, Jonathan|
 |5/24|Avoiding coordination|<a href="https://dl.acm.org/citation.cfm?id=3183713.3196937">Amazon Aurora</a>|Anuj, Fahim|
 |5/29|SRE|<a href="https://www.usenix.org/conference/osdi18/presentation/veeraraghavan">Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently</a>|Jason, Akul|
-|5/31|Tracing|<a href="https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/">Canopy: An End-to-End Performance Tracing and Analysis System</a>|Kyle|
+|5/31|Tracing|<a href="https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/">Canopy: An End-to-End Performance Tracing and Analysis System</a>|Kyle, Pooneh|
 |6/3|BFT|<a href="https://eprint.iacr.org/2016/199.pdf">The Honey Badger of BFT Protocols</a>|Sabrina, Rahil|
 |6/5|Avoiding coordination|<a href="http://www.neilconway.org/docs/socc2012_bloom_lattices.pdf">Bloom^L</a>||
 6/7||<a href=""></a>||
